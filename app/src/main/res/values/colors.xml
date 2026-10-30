@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="fondo_rosa_claro">#FDF2F4</color>
+    <color name="tarjeta_rosa">#FDE8ED</color>
+    <color name="rosa_primario">#881337</color>
+    <color name="rosa_acento">#E11D48</color>
+    <color name="texto_titulos">#4C0519</color>
+    <color name="texto_secundario">#701A75</color>
+    <color name="blanco">#FFFFFF</color>
+</resources>
